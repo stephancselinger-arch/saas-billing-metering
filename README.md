@@ -184,3 +184,5 @@ Covers all four pricing models, every aggregation type, idempotent ingestion, an
 - **Pydantic v2** — request/response validation
 - **Stripe** — metered billing (optional; mock fallback)
 - Python 3.12+
+
+<!-- Last updated: 2026-06-03 -->
