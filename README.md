@@ -186,3 +186,5 @@ Covers all four pricing models, every aggregation type, idempotent ingestion, an
 - Python 3.12+
 
 <!-- Last updated: 2026-06-03 -->
+
+<!-- Last updated: 2026-06-05 -->
