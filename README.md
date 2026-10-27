@@ -334,3 +334,5 @@ Covers all four pricing models, every aggregation type, idempotent ingestion, an
 <!-- Last updated: 2026-10-23 -->
 
 <!-- Last updated: 2026-10-25 -->
+
+<!-- Last updated: 2026-10-27 -->
